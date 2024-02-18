@@ -1,0 +1,29 @@
+.full
+{
+display: flex;
+margin-top: 250px;
+margin-left: 600px;
+height: 350px;
+width: 250px;
+border-radius: 0.2cm;
+box-shadow: 5px 5px 5px 5px gray;
+
+
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   background-color: azure;
+
+  
+}
+
+.box
+{
+    height: 100px;
+    width: 200px;
+    border: solid;
+    padding-top: 100px;
+    text-align: center;
+
+
+}
